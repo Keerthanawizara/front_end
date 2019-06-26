@@ -1,0 +1,440 @@
+[
+  {
+    "propertyNumber": "1409276011KANE",
+    "EscrowBalance": "$5,000.00",
+    "dataIn": [
+      {
+        "amount": "$5,000.00",
+        "date": "02/01/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1409276011KANE"
+      },
+      {
+        "amount": "$5,000.00",
+        "date": "02/02/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1409276011KANE"
+      },
+      {
+        "amount": "$5,000.00",
+        "date": "12/02/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1409276011KANE"
+      },
+      {
+        "amount": "$5,000.00",
+        "date": "11/02/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1409276011KANE"
+      },
+      {
+        "amount": "$5,000.00",
+        "date": "10/02/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1409276011KANE"
+      }
+    ],
+    "dataOut": [
+      {
+        "amount": "$ 5,000.00 ",
+        "date": "02/01/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Monthly fee"
+      },
+      {
+        "amount": "$ 5,000.00 ",
+        "date": "02/02/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Monthly fee"
+      },
+      {
+        "amount": "$ 5,000.00 ",
+        "date": "12/02/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "KANE COUNTY",
+        "reason": "PAYMENT OF TAXES"
+      },
+      {
+        "amount": "$ 5,000.00 ",
+        "date": "11/02/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Estimate of Redemption"
+      },
+      {
+        "amount": "$ 5,000.00 ",
+        "date": "10/02/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Overnight Mailing"
+      }
+    ]
+  },
+  {
+    "propertyNumber": "0326304016BOONE",
+    "EscrowBalance": "$7,000.00",
+    "dataIn": [
+      {
+        "amount": "$7,000.00",
+        "date": "05/02/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "0326304016BOONE"
+      },
+      {
+        "amount": "$7,000.00",
+        "date": "29/02/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "0326304016BOONE"
+      },
+      {
+        "amount": "$7,000.00",
+        "date": "21/01/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "0326304016BOONE"
+      },
+      {
+        "amount": "$7,000.00",
+        "date": "17/01/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "0326304016BOONE"
+      },
+      {
+        "amount": "$7,000.00",
+        "date": "19/01/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "0326304016BOONE"
+      }
+    ],
+    "dataOut": [
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "05/02/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Monthly fee"
+      },
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "29/02/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Monthly fee"
+      },
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "21/01/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "KANE COUNTY",
+        "reason": "PAYMENT OF TAXES"
+      },
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "17/01/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Estimate of Redemption"
+      },
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "19/01/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Overnight Mailing"
+      }
+    ]
+  },
+  {
+    "propertyNumber": "1404276011KANE",
+    "EscrowBalance": "$8,000.00",
+    "dataIn": [
+      {
+        "amount": "$8,000.00",
+        "date": "05/02/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1404276011KANE"
+      },
+      {
+        "amount": "$8,000.00",
+        "date": "29/02/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1404276011KANE"
+      },
+      {
+        "amount": "$8,000.00",
+        "date": "21/01/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1404276011KANE"
+      },
+      {
+        "amount": "$8,000.00",
+        "date": "17/01/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1404276011KANE"
+      },
+      {
+        "amount": "$8,000.00",
+        "date": "19/01/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1404276011KANE"
+      }
+    ],
+    "dataOut": [
+      {
+        "amount": "$ 8,000.00 ",
+        "date": "05/02/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Monthly fee"
+      },
+      {
+        "amount": "$ 8,000.00 ",
+        "date": "29/02/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Monthly fee"
+      },
+      {
+        "amount": "$ 8,000.00 ",
+        "date": "21/01/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "KANE COUNTY",
+        "reason": "PAYMENT OF TAXES"
+      },
+      {
+        "amount": "$ 8,000.00 ",
+        "date": "17/01/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Estimate of Redemption"
+      },
+      {
+        "amount": "$ 8,000.00 ",
+        "date": "19/01/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Overnight Mailing"
+      }
+    ]
+  },
+  {
+    "propertyNumber": "1409276021KANE",
+    "EscrowBalance": "$7,000.00",
+    "dataIn": [
+      {
+        "amount": "$7,000.00",
+        "date": "05/02/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1409276021KANE"
+      },
+      {
+        "amount": "$7,000.00",
+        "date": "29/02/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1409276021KANE"
+      },
+      {
+        "amount": "$7,000.00",
+        "date": "21/01/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1409276021KANE"
+      },
+      {
+        "amount": "$7,000.00",
+        "date": "17/01/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1409276021KANE"
+      },
+      {
+        "amount": "$7,000.00",
+        "date": "19/01/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1409276021KANE"
+      }
+    ],
+    "dataOut": [
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "05/02/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Monthly fee"
+      },
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "29/02/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Monthly fee"
+      },
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "21/01/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "KANE COUNTY",
+        "reason": "PAYMENT OF TAXES"
+      },
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "17/01/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Estimate of Redemption"
+      },
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "19/01/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Overnight Mailing"
+      }
+    ]
+  },
+  {
+    "propertyNumber": "0326304026BOONE",
+    "EscrowBalance": "$7,000.00",
+    "dataIn": [
+      {
+        "amount": "$7,000.00",
+        "date": "05/02/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "0326304026BOONE"
+      },
+      {
+        "amount": "$7,000.00",
+        "date": "29/02/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "0326304026BOONE"
+      },
+      {
+        "amount": "$7,000.00",
+        "date": "21/01/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "0326304026BOONE"
+      },
+      {
+        "amount": "$7,000.00",
+        "date": "17/01/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "0326304026BOONE"
+      },
+      {
+        "amount": "$7,000.00",
+        "date": "19/01/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "0326304026BOONE"
+      }
+    ],
+    "dataOut": [
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "05/02/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Monthly fee"
+      },
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "29/02/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Monthly fee"
+      },
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "21/01/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "KANE COUNTY",
+        "reason": "PAYMENT OF TAXES"
+      },
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "17/01/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Estimate of Redemption"
+      },
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "19/01/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Overnight Mailing"
+      }
+    ]
+  },
+  {
+    "propertyNumber": "1405276021KANE",
+    "EscrowBalance": "$7,000.00",
+    "dataIn": [
+      {
+        "amount": "$7,000.00",
+        "date": "05/02/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1405276021KANE"
+      },
+      {
+        "amount": "$7,000.00",
+        "date": "29/02/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1405276021KANE"
+      },
+      {
+        "amount": "$7,000.00",
+        "date": "21/01/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1405276021KANE"
+      },
+      {
+        "amount": "$7,000.00",
+        "date": "17/01/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1405276021KANE"
+      },
+      {
+        "amount": "$7,000.00",
+        "date": "19/01/2019",
+        "billingCode": "Deposit",
+        "appPaymentNumber": "1405276021KANE"
+      }
+    ],
+    "dataOut": [
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "05/02/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Monthly fee"
+      },
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "29/02/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Monthly fee"
+      },
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "21/01/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "KANE COUNTY",
+        "reason": "PAYMENT OF TAXES"
+      },
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "17/01/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Estimate of Redemption"
+      },
+      {
+        "amount": "$ 7,000.00 ",
+        "date": "19/01/2019",
+        "billingCode": "DEPOSIT",
+        "paymentTo": "SURE PAY, LLC",
+        "reason": "Overnight Mailing"
+      }
+    ]
+  }
+]

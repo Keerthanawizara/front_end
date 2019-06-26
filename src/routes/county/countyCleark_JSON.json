@@ -1,0 +1,818 @@
+[
+  {
+    "County": "Adams",
+    "ClerksName": "Chuck Venvertloh",
+    "Address": "507 Vermont St, Quincy,  IL 62301",
+    "PhoneNumber": "217-277-2150",
+    "EmailAddress": "countyclerk@co.adams.il.us",
+    "Website": "http://www.co.adams.il.us/county_clerk/index.htm"
+  },
+  {
+    "County": "Alexander",
+    "ClerksName": "Ellen Henderson Bigham",
+    "Address": "2000 Washington Ave, Cairo, IL, 62914",
+    "PhoneNumber": "618-734-7000",
+    "EmailAddress": "n/a",
+    "Website": "http://www.alexandercountyil.com/home.html"
+  },
+  {
+    "County": "Bond",
+    "ClerksName": "Meg Sybert",
+    "Address": "203 West College Avenue, Greenville, IL 62246",
+    "PhoneNumber": "618-664-0449",
+    "EmailAddress": "bococlerk@bondcountyil.com",
+    "Website": "http://www.bondcountyil.com/treasurer/"
+  },
+  {
+    "County": "Boone",
+    "ClerksName": "Julie A. Stapler",
+    "Address": "1212 Logan Ave., Suite 103, Belvidere, IL 61008",
+    "PhoneNumber": "815-544-3103",
+    "EmailAddress": "countyclerk@boonecountyil.org",
+    "Website": "http://www.boonecountyil.org/department/clerk"
+  },
+  {
+    "County": "Brown",
+    "ClerksName": "JUDY HAM",
+    "Address": "200 COURT AVE, RM 4  MT. STERLING, ILLINOIS 62353",
+    "PhoneNumber": "217-773-3421 Ext. 206",
+    "EmailAddress": "countyclerk@browncoil.org",
+    "Website": "https://www.browncoil.org/county-clerk/"
+  },
+  {
+    "County": "Bureau",
+    "ClerksName": "Matthew S. Eggers",
+    "Address": "700 South Main Street, Room 104, Princeton, Illinois 61356",
+    "PhoneNumber": "(815) 875-2014",
+    "EmailAddress": "countyclerk@bureaucounty-il.gov",
+    "Website": "http://bureaucountyclerk.com/"
+  },
+  {
+    "County": "Calhoun",
+    "ClerksName": "Rita Hagen",
+    "Address": "106 N. County Rd - PO Box 187, Hardin, IL 62047",
+    "PhoneNumber": "618-576-2351",
+    "EmailAddress": "calhouncoclk@frontiernet.net",
+    "Website": "n/a"
+  },
+  {
+    "County": "Carroll",
+    "ClerksName": "BRIAN WOESSNER",
+    "Address": "CarrollCounty Courthouse, 301 N Main St.,  P.O. Box 152,  Mt. Carroll, IL61053",
+    "PhoneNumber": "(815) 244-0221",
+    "EmailAddress": "ccclerk1@carroll-county.net",
+    "Website": "https://www.carroll-county.net/clerkrecorder"
+  },
+  {
+    "County": "Cass",
+    "ClerksName": "Michael Kirchner",
+    "Address": "100 East Springfield Street, Virginia, Illinois 62691-1308",
+    "PhoneNumber": "217-452-7217",
+    "EmailAddress": "casscoclerk@casscomm.com",
+    "Website": "n/a"
+  },
+  {
+    "County": "Champaign",
+    "ClerksName": "Aaron Ammons",
+    "Address": "1776 East Washington, Urbana, IL 61802",
+    "PhoneNumber": "217-384-3720",
+    "EmailAddress": "mail@champaigncontyclerk.com",
+    "Website": "https://www.champaigncountyclerk.com/"
+  },
+  {
+    "County": "Christian",
+    "ClerksName": "Michael C. Gianasi",
+    "Address": "101 South Main / PO Box 647, Taylorville, IL 62568",
+    "PhoneNumber": "217-824-4969",
+    "EmailAddress": "ccclerk@ctitech.com",
+    "Website": "https://christiancountyil.com/county-clerk-recorder/"
+  },
+  {
+    "County": "Clark",
+    "ClerksName": "Laura H. Lee",
+    "Address": "501 Archer, Marshall, IL 62441",
+    "PhoneNumber": "217-826-8311",
+    "EmailAddress": "n/a",
+    "Website": "https://www.clarkcountyil.org/clerk-recorder"
+  },
+  {
+    "County": "Clay",
+    "ClerksName": "Brenda Britton",
+    "Address": "111 E. Chestnut, Room 106 / PO Box 160, Louisville, IL 62858",
+    "PhoneNumber": "618-665-3626",
+    "EmailAddress": "claycoclk@wabash.net",
+    "Website": "http://claycountyillinois.org/clerkrecorder/"
+  },
+  {
+    "County": "Clinton",
+    "ClerksName": "Vicky Albers",
+    "Address": "850 Fairfax St. / PO Box 308, Carlyle, IL 62231",
+    "PhoneNumber": "618-594-2464 - Ext 630",
+    "EmailAddress": "ccclerk@clintonco.illinois.gov",
+    "Website": "https://www.clintonco.illinois.gov/county-offices/county-clerk/"
+  },
+  {
+    "County": "Coles",
+    "ClerksName": "Julie Coe",
+    "Address": "651 Jackson Ave - Room 122, Charleston, IL 61920",
+    "PhoneNumber": "217-348-0501",
+    "EmailAddress": "countyclerk@co.coles.il.us",
+    "Website": "https://www.co.coles.il.us/coclerk/"
+  },
+  {
+    "County": "Cook",
+    "ClerksName": "Karen A. Yarbrough",
+    "Address": "69 W. Washington Street, Suite 500, Chicago, IL 60602",
+    "PhoneNumber": "(312) 603-5645",
+    "EmailAddress": "clerk.yarbrough@cookcountyil.gov",
+    "Website": "www.cookcountyclerk.com"
+  },
+  {
+    "County": "Crawford",
+    "ClerksName": "Fayrene Wright",
+    "Address": "100 Douglas / PO Box 616, Robinson, IL 62454",
+    "PhoneNumber": "618-544-2590",
+    "EmailAddress": "countyclerk@crawfordcountyclerk.net",
+    "Website": "http://www.crawfordcountycentral.com/"
+  },
+  {
+    "County": "Cumberland",
+    "ClerksName": "Bev Howard",
+    "Address": "140 Courthouse Square/Box 146, Toledo, IL 62468",
+    "PhoneNumber": "217-849-2631",
+    "EmailAddress": "clerk-recorder@cumberlandco.org",
+    "Website": "http://cumberlandco.org/index.php/clerk-recorder/"
+  },
+  {
+    "County": "DeKalb",
+    "ClerksName": "DOUGLAS J. JOHNSON",
+    "Address": "110 East Sycamore Street, Sycamore, IL 60178",
+    "PhoneNumber": "815-895-7146",
+    "EmailAddress": "countyclerk@dekalbcounty.org",
+    "Website": "https://dekalbcounty.org/departments/county-clerk-recorder/"
+  },
+  {
+    "County": "De Witt",
+    "ClerksName": "Dana Smith",
+    "Address": "201 West Washington, Clinton, IL 61727",
+    "PhoneNumber": "217-935-7780",
+    "EmailAddress": "dsmith@dewittcountyill.com",
+    "Website": "http://www.dewittcountyill.com/countyclerk.htm"
+  },
+  {
+    "County": "Douglas",
+    "ClerksName": "Judi Pollock",
+    "Address": "401 S. Center St / PO Box 467, Tuscola, IL 61953",
+    "PhoneNumber": "217-253-2411",
+    "EmailAddress": "clerk@douglascountyil.com",
+    "Website": "http://www.douglascountyil.com/clerkrecorder.html"
+  },
+  {
+    "County": "DuPage",
+    "ClerksName": "Jean Kaczmarek",
+    "Address": "421 North County Farm Road, Wheaton, IL 60187",
+    "PhoneNumber": "630-407-5500",
+    "EmailAddress": "n/a",
+    "Website": "https://www.dupageco.org/countyclerk/"
+  },
+  {
+    "County": "Edgar",
+    "ClerksName": "August H. Griffin",
+    "Address": "115 West Court Street - Room J, Paris, IL 61944",
+    "PhoneNumber": "217-466-7433",
+    "EmailAddress": "n/a",
+    "Website": "https://edgarcountyillinois.com/offices/clerk-recorder/"
+  },
+  {
+    "County": "Edwards",
+    "ClerksName": "Mary Beth Smith",
+    "Address": "50 East Main Street, Albion, IL 62806",
+    "PhoneNumber": "618-445-2115",
+    "EmailAddress": "edcc@fairfieldwireless.net",
+    "Website": "n/a"
+  },
+  {
+    "County": "Effingham",
+    "ClerksName": "Kerry Hirtzel",
+    "Address": "101 North 4th Street - Suite 201, Effingham, IL 62401",
+    "PhoneNumber": "217-342-6535",
+    "EmailAddress": "khirtzel@co.effingham.il.us",
+    "Website": "http://www.co.effingham.il.us/clerk-recorder"
+  },
+  {
+    "County": "Fayette",
+    "ClerksName": "Vicky L. Conder",
+    "Address": "221 South 7th Street - Box 401, Vandalia, IL 62471",
+    "PhoneNumber": "618-283-5000",
+    "EmailAddress": "fayettecountyclerk@gmail.com",
+    "Website": "http://www.fayettecountyillinois.org/2160/County-Clerk-Recorder"
+  },
+  {
+    "County": "Ford",
+    "ClerksName": "Amy Frederick",
+    "Address": "200 W. State, Room 101, Paxton, IL 60957",
+    "PhoneNumber": "217-379-9400",
+    "EmailAddress": "clerk@fordcounty.illinois.gov",
+    "Website": "http://fordcounty.illinois.gov/county-clerk-recorder/"
+  },
+  {
+    "County": "Franklin",
+    "ClerksName": "Greg Woolard",
+    "Address": "Franklin County Courthouse, 100 Public Square, Benton, IL 62812",
+    "PhoneNumber": "(618) 438-3221",
+    "EmailAddress": "GWOOLARD@FRANKLINCOUNTYIL.ORG",
+    "Website": "http://www.franklincountyil.gov/countyclerk"
+  },
+  {
+    "County": "Fulton",
+    "ClerksName": "Jim Nelson",
+    "Address": "Fulton County Courthouse, 100 N. Main Street, Room 105, Lewistown, Il 61542",
+    "PhoneNumber": "(309) 547-3041 Ext. 117",
+    "EmailAddress": "jnelson@fultonco.org",
+    "Website": "https://www.fultonco.org/officials/elected/county-clerk/"
+  },
+  {
+    "County": "Gallatin",
+    "ClerksName": "Elizabeth “Beth” Wargel",
+    "Address": "484 North Lincoln Blvd West, Shawneetown, IL 62984",
+    "PhoneNumber": "618-269-3025",
+    "EmailAddress": "gallatinco@myfrontiermail.com",
+    "Website": "n/a"
+  },
+  {
+    "County": "Greene",
+    "ClerksName": "Deborah Banghart",
+    "Address": "519 North Main Street, Carrollton, IL 62016",
+    "PhoneNumber": "217-942-5443",
+    "EmailAddress": "grctyclk@hotmail.com",
+    "Website": "n/a"
+  },
+  {
+    "County": "Grundy",
+    "ClerksName": "Kay Olson",
+    "Address": "111 East Washington Street Rm 10-12, Morris, IL 60450",
+    "PhoneNumber": "815-941-3222",
+    "EmailAddress": "kolson@grundyco.org",
+    "Website": "https://www.grundyco.org/county-clerkrecorder/"
+  },
+  {
+    "County": "Hamilton",
+    "ClerksName": "Mary Anne Hopfinger",
+    "Address": "100 South Jackson Street Rm 2, McLeansboro, IL 62859",
+    "PhoneNumber": "618-643-2721",
+    "EmailAddress": "coclerk@hamiltonco.us",
+    "Website": "https://www.hamiltoncountyillinois.com/departments/county-clerk-recorder/"
+  },
+  {
+    "County": "Hancock",
+    "ClerksName": "Kerry Asbridge",
+    "Address": "500 Main Street Rm 7, Carthage, IL 62321",
+    "PhoneNumber": "217-357-3911",
+    "EmailAddress": "n/a",
+    "Website": "https://www.hancockcounty-il.gov/countyclerk/"
+  },
+  {
+    "County": "Hardin",
+    "ClerksName": "Jill Cowsert",
+    "Address": "102 East Market Street, Elizabethtown, IL 62931",
+    "PhoneNumber": "618-287-2251",
+    "EmailAddress": "hcdenton@shawneelink.net",
+    "Website": "n/a"
+  },
+  {
+    "County": "Henderson",
+    "ClerksName": "Amanda Rousonelos",
+    "Address": "307 Warren Street, Oquawka, IL 61469",
+    "PhoneNumber": "309-867-2911",
+    "EmailAddress": "hcedc@hendersoncountyedc.com",
+    "Website": "http://www.hendersoncountyedc.com/Departments/County-Clerk"
+  },
+  {
+    "County": "Henry",
+    "ClerksName": "Barbara M Link",
+    "Address": "307 West Center Street, Cambridge, IL 61238",
+    "PhoneNumber": "309-937-3575",
+    "EmailAddress": "blink@henrycty.com",
+    "Website": "http://henrycty.com/Departments/County-Clerk"
+  },
+  {
+    "County": "Iroquois",
+    "ClerksName": "Lisa Fancher",
+    "Address": "1001 East Grant Street Rm 104, Watseka, IL 60970",
+    "PhoneNumber": "815-432-6962",
+    "EmailAddress": "lfancher@co.iroquois.il.us",
+    "Website": "http://www.co.iroquois.il.us/offices/clerk/"
+  },
+  {
+    "County": "Jackson",
+    "ClerksName": "FRANK L. BYRD",
+    "Address": "1001 Walnut Street 1st Fl, Murphysboro, IL 62966",
+    "PhoneNumber": "618-687-7360",
+    "EmailAddress": "frank.byrd@jacksoncounty-il.gov",
+    "Website": "https://www.jacksoncounty-il.gov/government/departments-a-z/clerk-and-recorder"
+  },
+  {
+    "County": "Jasper",
+    "ClerksName": "Linda Huth",
+    "Address": "204 West Washington Street, Suite 2, Newton, IL 62448",
+    "PhoneNumber": "618-783-3124",
+    "EmailAddress": "lindadg@psbnewton.com",
+    "Website": "www.jaspercountyillinois.org"
+  },
+  {
+    "County": "Jefferson",
+    "ClerksName": "Connie Simmons",
+    "Address": "100 South 10th Street Rm 105, Mount Vernon, IL 62864",
+    "PhoneNumber": "618-244-8020",
+    "EmailAddress": "jeffcoclerk@jeffil.us",
+    "Website": "http://jeffersoncountyillinois.com/contact-county-clerk"
+  },
+  {
+    "County": "Jersey",
+    "ClerksName": "Pam Warford",
+    "Address": "200 N. Lafayette, P. O. Box 216, Jerseyville, IL 62052",
+    "PhoneNumber": "618-498-5571",
+    "EmailAddress": "countyclerk@jerseycounty-il.us",
+    "Website": "https://www.jerseycountyclerk-il.com/"
+  },
+  {
+    "County": "Jo Daviess",
+    "ClerksName": "Angela Kaiser",
+    "Address": "330 North Bench Street Rm 108, Galena, IL 61036",
+    "PhoneNumber": "815-777-0161",
+    "EmailAddress": "countyclerk@jodaviess.org",
+    "Website": "https://www.jodaviess.org/clerkrecorder"
+  },
+  {
+    "County": "Johnson",
+    "ClerksName": "Robin Harper-Whitehead",
+    "Address": "117 North Fifth Street, Vienna, IL 62995",
+    "PhoneNumber": "618-658-3611",
+    "EmailAddress": "n/a",
+    "Website": "http://votejohnsoncounty.com/"
+  },
+  {
+    "County": "Kane",
+    "ClerksName": "John A Cunningham",
+    "Address": "719 South Batavia Avenue Bldg B, Geneva, IL 60134",
+    "PhoneNumber": "630-232-5950",
+    "EmailAddress": "CountyClerk@co.kane.il.us",
+    "Website": "http://kanecountyclerk.org/"
+  },
+  {
+    "County": "Kankakee",
+    "ClerksName": "Dan Hendrickson",
+    "Address": "189 East Court Street, Kankakee, IL 60901",
+    "PhoneNumber": "815-937-2990",
+    "EmailAddress": "countyclerk@k3county.net",
+    "Website": "https://www.kankakeecountyclerk.com/"
+  },
+  {
+    "County": "Kendall",
+    "ClerksName": "Debbie Gillette",
+    "Address": "111 West Fox Street Rm 220, Yorkville, IL 60560",
+    "PhoneNumber": "630-553-4104",
+    "EmailAddress": "dgillette@co.kendall.il.us",
+    "Website": "https://www.co.kendall.il.us/county-clerk/"
+  },
+  {
+    "County": "Knox",
+    "ClerksName": "Scott G. Erickson",
+    "Address": "200 South Cherry St., Galesburg, IL 61401",
+    "PhoneNumber": "309-345-3815",
+    "EmailAddress": "serickson@co.knox.il.us",
+    "Website": "https://co.knox.il.us/county-clerk/"
+  },
+  {
+    "County": "La Salle",
+    "ClerksName": "Lori Bongartz",
+    "Address": "707 East Etna Road, Ottawa, IL 61350",
+    "PhoneNumber": "815-434-8202",
+    "EmailAddress": "",
+    "Website": "http://lasallecounty.org/lasalle-county-clerk/"
+  },
+  {
+    "County": "Lake",
+    "ClerksName": "Robin M. O'Connor",
+    "Address": "18 N County Street, Room 101, Waukegan, IL 60085",
+    "PhoneNumber": "847-377-2400",
+    "EmailAddress": "CountyClerk@lakecountyil.gov",
+    "Website": "http://www.lakecountyil.gov/161/County-Clerk"
+  },
+  {
+    "County": "Lawrence",
+    "ClerksName": "Will Gibson",
+    "Address": "1100 State Street, Lawrenceville, IL 62439",
+    "PhoneNumber": "618-943-2346",
+    "EmailAddress": "n/a",
+    "Website": "n/a"
+  },
+  {
+    "County": "Lee",
+    "ClerksName": "Cathy Myers",
+    "Address": "112 East Second Street, Dixon, IL 61021",
+    "PhoneNumber": "815-288-3309",
+    "EmailAddress": "cmyers@countyoflee.org",
+    "Website": "https://leecountyil.com/index.php?option=com_content&view=article&id=26&Itemid=153"
+  },
+  {
+    "County": "Livingston",
+    "ClerksName": "Kristy Masching",
+    "Address": "PO Box 618, Pontiac, IL 61764",
+    "PhoneNumber": "815-844-2006",
+    "EmailAddress": "kmasching@livingstoncountyil.gov",
+    "Website": "https://www.livingstoncounty-il.org/wordpress/county-services/county-clerk/"
+  },
+  {
+    "County": "Logan",
+    "ClerksName": "Theresa Moore",
+    "Address": "601 Broadway Street, Lincoln, IL 62656",
+    "PhoneNumber": "217-732-4148",
+    "EmailAddress": "n/a",
+    "Website": "https://www.logancountyil.gov/index.php?option=com_content&view=article&id=167&Itemid=521&lang=en"
+  },
+  {
+    "County": "McDonough",
+    "ClerksName": "Gretchen DeJaynes",
+    "Address": "1 Courthouse Square, Macomb, IL 61455",
+    "PhoneNumber": "309-833-2474",
+    "EmailAddress": "gdejaynes@mcdonoughcountyclerk.org",
+    "Website": "http://mcg.mcdonough.il.us/countyclerk.html"
+  },
+  {
+    "County": "McHenry",
+    "ClerksName": "Joseph J. Tirio",
+    "Address": "2200 N. Seminary Ave, Woodstock, IL 60098",
+    "PhoneNumber": "815-334-4242",
+    "EmailAddress": "countyclerk@mchenrycountyil.gov",
+    "Website": "https://www.mchenrycountyil.gov/county-government/departments-a-i/county-clerk"
+  },
+  {
+    "County": "McLean",
+    "ClerksName": "Kathy Michael",
+    "Address": "115 East Washington Street Rm 102, Bloomington, IL 61701",
+    "PhoneNumber": "309-888-5190",
+    "EmailAddress": "countyclerk@mcleancountyil.gov",
+    "Website": "https://www.mcleancountyil.gov/84/County-Clerk"
+  },
+  {
+    "County": "Macon",
+    "ClerksName": "Josh Tanner",
+    "Address": "141 South Main Street, Room 104, Decatur, IL 62523",
+    "PhoneNumber": "(217) 424-1305",
+    "EmailAddress": "jtanner@co.macon.il.us",
+    "Website": "http://www.co.macon.il.us/departments/county-clerk/"
+  },
+  {
+    "County": "Macoupin",
+    "ClerksName": "Pete Duncan",
+    "Address": "201 East Main, P.O. Box 107, Carlinville, IL 62626-0197",
+    "PhoneNumber": "217-854-3214",
+    "EmailAddress": "pete.duncan@macoupincountyil.gov",
+    "Website": "http://macoupincountyil.gov/county_clerk.htm"
+  },
+  {
+    "County": "Madison",
+    "ClerksName": "Debbie Ming-Mendoza",
+    "Address": "157 North Main Street, P.O. Box 218, Edwardsville, IL 62025",
+    "PhoneNumber": "618-296-6200",
+    "EmailAddress": "ddming@co.madison.il.us",
+    "Website": "https://www.co.madison.il.us/departments/county_clerk/index.php"
+  },
+  {
+    "County": "Marion",
+    "ClerksName": "Steve A Fox",
+    "Address": "101 East Main Street, Salem, IL 62881",
+    "PhoneNumber": "618-548-3400",
+    "EmailAddress": "",
+    "Website": "http://marionil.devnetwedge.com/"
+  },
+  {
+    "County": "Marshall",
+    "ClerksName": "Jill M. Kenyon",
+    "Address": "122 North Prairie Street, Lacon, IL 61540",
+    "PhoneNumber": "309-246-6325",
+    "EmailAddress": "coclerk@marshallcountyillinois.com",
+    "Website": "http://marshallcountyillinois.com/elected-officials/county-clerkrecorder/"
+  },
+  {
+    "County": "Mason",
+    "ClerksName": "Summer Brown",
+    "Address": "125 North Plum, Havana, IL 62644",
+    "PhoneNumber": "309-543-6661",
+    "EmailAddress": "countyclerk@masoncountyil.org",
+    "Website": "http://www.masoncountyil.org/countyclerk.htm"
+  },
+  {
+    "County": "Massac",
+    "ClerksName": "Juanita Wedeking-Newberry",
+    "Address": "1 Superman Square Rm 2A, Metropolis, IL 62960",
+    "PhoneNumber": "618-524-5213",
+    "EmailAddress": "n/a",
+    "Website": "n/a"
+  },
+  {
+    "County": "Menard",
+    "ClerksName": "Martha \"Marty\" Gum",
+    "Address": "102 South Seventh Street, PO Box 465, Petersburg, Illinois  62675",
+    "PhoneNumber": "217-632-3201",
+    "EmailAddress": "mgum@co.menard.il.us",
+    "Website": "http://menardcountyil.com/elected-officials/county-clerkrecorder/"
+  },
+  {
+    "County": "Mercer",
+    "ClerksName": "Sara Blaser",
+    "Address": "PO Box 66, Aledo, IL 61231",
+    "PhoneNumber": "309-582-7021",
+    "EmailAddress": "sblaser@mercercountyil.org",
+    "Website": "http://www.mercercountyil.org/Departments/CountyClerkRecorder.aspx"
+  },
+  {
+    "County": "Monroe",
+    "ClerksName": "Jonathan McLean",
+    "Address": "100 S. Main St., Waterloo, IL 62298",
+    "PhoneNumber": "618-939-8681 ext. 302",
+    "EmailAddress": "countyclerk@monroecountyil.gov",
+    "Website": "http://monroecountyil.gov/departments/county-clerk-and-recording/"
+  },
+  {
+    "County": "Montgomery",
+    "ClerksName": "Sandy Leitheiser",
+    "Address": "1 Courthouse Square, Hillsboro, IL 62049",
+    "PhoneNumber": "217-532-9530",
+    "EmailAddress": "countyclerk@montgomeryco.com",
+    "Website": "http://www.montgomeryco.com/countyclerk/"
+  },
+  {
+    "County": "Morgan",
+    "ClerksName": "Jill Waggener",
+    "Address": "300 West State Street, Jacksonville, IL 62650",
+    "PhoneNumber": "217-243-8581",
+    "EmailAddress": "jwaggener@morgancounty-il.com",
+    "Website": "http://morgancounty-il.com/departments/county-clerk/"
+  },
+  {
+    "County": "Moultrie",
+    "ClerksName": "Georgia C. England",
+    "Address": "10 S. Main St., Suite 6, Sullivan, IL 61951",
+    "PhoneNumber": "217-728-4389",
+    "EmailAddress": "ctyclrk@moultrie.com",
+    "Website": "http://moultriecountyil.com/coclerk.php"
+  },
+  {
+    "County": "Ogle",
+    "ClerksName": "Laura J Cook",
+    "Address": "105 South Fifth Street, Suite 104, Oregon, IL 61061",
+    "PhoneNumber": "815-732-1110",
+    "EmailAddress": "countyclerk @ oglecounty.org",
+    "Website": "http://oglecounty.org/departments/county_clerk/index.php"
+  },
+  {
+    "County": "Peoria",
+    "ClerksName": "Steve Sonnemaker",
+    "Address": "324 Main Street, Room 101, Peoria, IL 61602",
+    "PhoneNumber": "309-672-6059",
+    "EmailAddress": "n/a",
+    "Website": "https://www.peoriacounty.org/204/County-Clerk"
+  },
+  {
+    "County": "Perry",
+    "ClerksName": "Josh Gross",
+    "Address": "3764 State Routes 13-127, Room 204, Pinckneyville, IL 62274",
+    "PhoneNumber": "618-357-5116",
+    "EmailAddress": "countyclerk@perryil.com",
+    "Website": "https://www.perryil.com/county-clerk/"
+  },
+  {
+    "County": "Piatt",
+    "ClerksName": "Jennifer Harper",
+    "Address": "101 W. Washington, Room 110, Monticello, IL 61856",
+    "PhoneNumber": "217-762-9487",
+    "EmailAddress": "countyclerk@piattcounty.org",
+    "Website": "http://piattcounty.org/"
+  },
+  {
+    "County": "Pike",
+    "ClerksName": "Donnie Apps",
+    "Address": "121 E. Washington,  Pittsfield, IL 62363",
+    "PhoneNumber": "217-285-6812",
+    "EmailAddress": "n/a",
+    "Website": "https://www.pikecountyil.org/county-clerk/"
+  },
+  {
+    "County": "Pope",
+    "ClerksName": "Connie S Gibbs",
+    "Address": "310 East Main Street, Golconda, IL 62938",
+    "PhoneNumber": "618-683-4466",
+    "EmailAddress": "popeco76@shawneelink.com",
+    "Website": "n/a"
+  },
+  {
+    "County": "Pulaski",
+    "ClerksName": "Julie Hancock",
+    "Address": "500 Illinois Avenue, Mound City, IL 62963",
+    "PhoneNumber": "618-748-9360",
+    "EmailAddress": "jhancock029@gmail.com",
+    "Website": "http://www.pulaskicountyil.net/county-clerk.html"
+  },
+  {
+    "County": "Putnam",
+    "ClerksName": "Daniel S. Kuhn",
+    "Address": "120 North Fourth Street, P O Box 236, Hennepin, IL 61327",
+    "PhoneNumber": "815-925-7129",
+    "EmailAddress": "dankuhn@co.putnam.il.us",
+    "Website": "https://www.co.putnam.il.us/county-offices/county-clerk-recorder-office"
+  },
+  {
+    "County": "Randolph",
+    "ClerksName": "Melanie Johnson",
+    "Address": "1 Taylor Street, Room 202 , Chester, IL 62233",
+    "PhoneNumber": "618.826.5000 ext 191",
+    "EmailAddress": "countyclerk@randolphco.org",
+    "Website": "http://am.randolphco.org/index.php/gov-menu/electedofficials/2015-12-04-01-49-47"
+  },
+  {
+    "County": "Richland",
+    "ClerksName": "Alice Mullinax",
+    "Address": "103 W Main St Ste 12, Olney IL 62450-2170",
+    "PhoneNumber": "618-392-3111",
+    "EmailAddress": "n/a",
+    "Website": "n/a"
+  },
+  {
+    "County": "Rock Island",
+    "ClerksName": "Karen Kinney",
+    "Address": "1504 Third Avenue 1st Fl, Rock Island, IL 61201",
+    "PhoneNumber": "309-558-3569",
+    "EmailAddress": "kkinney@ricountyclerk.org",
+    "Website": "http://www.rockislandcounty.org/CountyClerk/Home/"
+  },
+  {
+    "County": "Saline",
+    "ClerksName": "Roger Craig (deceased)",
+    "Address": "10 East Poplar Street, Harrisburg, IL 62946",
+    "PhoneNumber": "618-253-8197",
+    "EmailAddress": "n/a",
+    "Website": "n/a"
+  },
+  {
+    "County": "Sangamon",
+    "ClerksName": "Don Gray",
+    "Address": "200 South Ninth Street Rm 101, Springfield, IL 62701",
+    "PhoneNumber": "217-753-6700",
+    "EmailAddress": "dgray@co.sangamon.il.us",
+    "Website": "https://www.sangamoncountyclerk.com/"
+  },
+  {
+    "County": "Schuyler",
+    "ClerksName": "Mindy Garrett",
+    "Address": "102 S. Congress St. Suite 104, Rushville, IL 62681",
+    "PhoneNumber": "217-322-4734",
+    "EmailAddress": "clerk85@schuylercounty.org",
+    "Website": "http://www.schuylercountyillinois.com/government/county_clerk.html"
+  },
+  {
+    "County": "Scott",
+    "ClerksName": "Sandra Hankins",
+    "Address": "35 East Market Street, Winchester, IL 62694",
+    "PhoneNumber": "217-742-3178",
+    "EmailAddress": "scottcoclerk@frontier.net",
+    "Website": "n/a"
+  },
+  {
+    "County": "Shelby",
+    "ClerksName": "Jessica Fox",
+    "Address": "301 East Main Street Rm 8, Shelbyville, IL 62565",
+    "PhoneNumber": "217-774-4421",
+    "EmailAddress": "n/a",
+    "Website": "http://shelbycounty-il.com/"
+  },
+  {
+    "County": "St. Clair",
+    "ClerksName": "Thomas Holbrook",
+    "Address": "10 Public Square 2nd Fl, Belleville, IL 62220",
+    "PhoneNumber": "618-277-6600",
+    "EmailAddress": "countyclerk@co.st-clair.il.us",
+    "Website": "http://www.countyclerk.co.st-clair.il.us"
+  },
+  {
+    "County": "Stark",
+    "ClerksName": "Heather Hollis",
+    "Address": "130 West Main Street, PO Box 97, Toulon, IL 61483",
+    "PhoneNumber": "309-286-5911",
+    "EmailAddress": "starkcoclerkdep@gmail.com",
+    "Website": "http://www.starkcountyillinois.com/county-clerk/"
+  },
+  {
+    "County": "Stephenson",
+    "ClerksName": "Vici Otte",
+    "Address": "50 West Douglas, Suite 500, Freeport, IL 61032",
+    "PhoneNumber": "815-235-8289",
+    "EmailAddress": "votte@co.stephenson.il.us",
+    "Website": "http://www.co.stephenson.il.us/clerk/default-test.asp"
+  },
+  {
+    "County": "Tazewell",
+    "ClerksName": "Christie Webb",
+    "Address": "11 South Fourth Street, Suite 203, Pekin, IL 61554",
+    "PhoneNumber": "309-477-2264",
+    "EmailAddress": "JCAckerman@tazewell.com",
+    "Website": "http://tazewell.com/CountyClerk/CountyClerk&Recorder.html"
+  },
+  {
+    "County": "Union",
+    "ClerksName": "Lance Meisenheimer",
+    "Address": "309 West Market Street, Room 116, Jonesboro, Illinois 62952",
+    "PhoneNumber": "618-833-5711",
+    "EmailAddress": "",
+    "Website": "https://blog.unioncountyil.gov/"
+  },
+  {
+    "County": "Vermilion",
+    "ClerksName": "Cathy Jenkins",
+    "Address": "201 North Vermilion Street, 1st Floor, Danville, Illinois 61832",
+    "PhoneNumber": "217-554-1900",
+    "EmailAddress": "cjenkins@vercounty.org",
+    "Website": "https://www.vercounty.org/coclerk_main.htm"
+  },
+  {
+    "County": "Wabash",
+    "ClerksName": "Janet L Will",
+    "Address": "401 Market Street, Mount Carmel, IL 62863",
+    "PhoneNumber": "618-262-4561",
+    "EmailAddress": "n/a",
+    "Website": "n/a"
+  },
+  {
+    "County": "Warren",
+    "ClerksName": "Tina Conard",
+    "Address": "100 West Broadway, Monmouth, IL 61462",
+    "PhoneNumber": "309-734-8592",
+    "EmailAddress": "warrencoclerk@frontier.com",
+    "Website": "http://warrencountyil.com/offices/county-clerk-recorder"
+  },
+  {
+    "County": "Washington",
+    "ClerksName": "Nancy Heseman",
+    "Address": "101 E. St. Louis St., Nashville, IL 62263",
+    "PhoneNumber": "618-327-4800",
+    "EmailAddress": "",
+    "Website": "https://washingtonco.illinois.gov/county-clerk-and-recorder/"
+  },
+  {
+    "County": "Wayne",
+    "ClerksName": "Liz Ann Woodrow",
+    "Address": "301 E. Main St. Suite 203, Fairfield, IL 62837",
+    "PhoneNumber": "618/842-5182",
+    "EmailAddress": "countyclerk@waynecountygovil.com",
+    "Website": "http://www.fairfield-il.com/county"
+  },
+  {
+    "County": "White",
+    "ClerksName": "Beth Sell",
+    "Address": "301 E Main Street, P.O. Box 339, Carmi, IL 62821",
+    "PhoneNumber": "618-382-7211 ext. 1",
+    "EmailAddress": "n/a",
+    "Website": "http://whitecounty-il.gov/county-clerk.aspx"
+  },
+  {
+    "County": "Whiteside",
+    "ClerksName": "Dana Nelson",
+    "Address": "200 East Knox Street, Morrison, IL 61270",
+    "PhoneNumber": "815-772-5189",
+    "EmailAddress": "countyclerk@whiteside.org",
+    "Website": "https://www.whiteside.org/departments/county-clerk.html"
+  },
+  {
+    "County": "Will",
+    "ClerksName": "Lauren Staley Ferry",
+    "Address": "302 North Chicago Street, Joliet, IL 60432",
+    "PhoneNumber": "815-740-4615",
+    "EmailAddress": "coclrk@willcountyillinois.com",
+    "Website": "https://www.thewillcountyclerk.com/#"
+  },
+  {
+    "County": "Williamson",
+    "ClerksName": "Amanda Barnes",
+    "Address": "407 North Monroe Street, Suite 119, Marion, IL 62959",
+    "PhoneNumber": "618-998-2110",
+    "EmailAddress": "abarnes@williamsoncountyil.gov",
+    "Website": "http://www.williamsoncountyil.gov/county-clerk-and-recorder/"
+  },
+  {
+    "County": "Winnebago",
+    "ClerksName": "Lori Gummow",
+    "Address": "404 Elm Street, Suite 104, Rockford, IL 61101",
+    "PhoneNumber": "815-319-4253",
+    "EmailAddress": "n/a",
+    "Website": "http://www.winnebagocountyclerk.com/"
+  },
+  {
+    "County": "Woodford",
+    "ClerksName": "Dawn Kupfer",
+    "Address": "115 N Main Street, Room 202, Eureka, IL 61530",
+    "PhoneNumber": "309-467-2822",
+    "EmailAddress": "cntyclk@woodford-county.org",
+    "Website": "http://woodford-county.org/157/County-Clerk-Recorder"
+  }
+]
